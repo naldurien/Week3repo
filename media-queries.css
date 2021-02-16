@@ -1,4 +1,5 @@
-
+/*Week 3 Activity 1 - Create media queries for a set of given breakpoints
+and change the body background color as indicated.*/
 
 @media (min-width: 320px) and (max-width: 480px) {
   body {
@@ -19,4 +20,3 @@
     background-color: purple
   }
 }
-
