@@ -1,3 +1,8 @@
+# Challenge 6 - Clean up list of names and addresses; if complete address i
+# is present, print message about sending flowers. Otherwise, print message to 
+# serial-dater boss who's sending flowers to 4 different girls for
+# Valentine's Day!
+
 girls = ["Vanessa - 16 West 34th St", "Alessandra - ???", "Marissa - ???", "Andrea - 99 Red Lake Dr", "Vanessa - 14 Pleated Jeans Ave", "Maria - 77 Pasha Dr", "Angela - ???", "Olivia - 12 Buxton Rd", "Penelope - North Rd"]
 
 import re
